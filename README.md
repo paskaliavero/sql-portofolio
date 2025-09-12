@@ -1,4 +1,4 @@
-# 🗄️ SQL Portfolio - Oreff
+# 🗄️ SQL Portfolio - Veronika
 
 This repository contains my **SQL projects** showcasing skills in querying, data cleaning, analysis, and reporting.  
 The projects are based on sample datasets and real business cases.
@@ -17,9 +17,9 @@ The projects are based on sample datasets and real business cases.
 
 ## 📂 Projects
 
-### 🔹 Sales Performance Analysis
-- **Goal:** Analyze monthly sales trends and top-performing products.  
-- **Dataset:** Retail sales transactions.  
+### 🔹 Outlet Database
+- **Goal:** Creating Outlet Database.  
+- **Dataset:** Made.  
 - **Key Skills:** Joins, Aggregation, Window Functions.  
 - **Files:** [`sales_analysis.sql`](./sales_analysis.sql)  
 - **Insights:** Identified top 5 products contributing 70% of revenue.
