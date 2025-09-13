@@ -69,3 +69,25 @@ INSERT INTO outlet (outlet_name, address, region, phone) VALUES
     ('Halte Kampung Melayu', 'Bali Mester, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta', 'Jakarta Pusat', '087946521346'),
     ('Halte Karet Sudirman', 'Jl. Jend. Sudirman No.Kav 25, Kota SelatanSetia Budi, Karet, Kecamatan, Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta', 'Jakarta Pusat', '087964521346'),
     ('Halte Monas', 'Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta', 'Jakarta Pusat', '081346798546');
+
+INSERT INTO employee (employee_name, id_outlet) VALUES 
+    ('Silvia', 1),
+    ('Roger', 1),
+    ('Anna', 2),
+    ('Belle', 2),
+    ('Joshua', 3),
+    ('Shavira', 3),
+    ('Shafa', 4),
+    ('Vania', 4),
+    ('Jessica', 5),
+    ('Maulana', 5),
+    ('Gabriel', 6),
+    ('Rexa', 6),
+    ('Rafael', 7),
+    ('Narnia', 7),
+    ('Evan', 8),
+    ('Viona', 8),
+    ('David', 9),
+    ('Jonathan', 9),
+    ('Nicholas', 10),
+    ('Keisha', 10);
